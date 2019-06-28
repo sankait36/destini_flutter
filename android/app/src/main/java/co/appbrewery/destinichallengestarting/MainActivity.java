@@ -1,4 +1,4 @@
-package com.example.destini_flutter;
+package co.appbrewery.destinichallengestarting;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
